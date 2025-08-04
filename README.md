@@ -1,4 +1,4 @@
-<img width="493" height="81" alt="image" src="https://github.com/user-attachments/assets/f208bbc1-09b1-4f19-af8f-08c2721075fe" /># 🧩 Kim Dong Hyun
+# 🧩 Kim Dong Hyun
 
 ## 🛠️ SKIll
 <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
